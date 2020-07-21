@@ -20,3 +20,6 @@ git show <hash>
 git diff
 git diff --name-only
 git commit -am "Add e commit e um comando"
+git checkout <Nome do arquivo>
+git reset HEAD
+git reset --soft --mixed --hard
