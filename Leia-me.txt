@@ -1,5 +1,5 @@
-Testando curso de git 2020
-Hello world
+Aprendendo git e github 2020
+"Hello world"
 
 Comandos:
 
@@ -9,4 +9,14 @@ ls = Listar
 git status
 git add
 git commit
--m = Passar uma mensagem
+-m = "Passar uma mensagem"
+git log
+git log --decorate
+git log --author="Nome do autor"
+git shortlog
+git shortlog -sn
+git log --graph 
+git show <hash>
+git diff
+git diff --name-only
+git commit -am "Add e commit e um comando"
