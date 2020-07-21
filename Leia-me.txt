@@ -26,3 +26,8 @@ git reset --soft --mixed --hard <hash>
 git remote
 git remote -v
 git push -u <pasta> master
+git clone <github-ssh> <nome da nova pasta>
+git checkout -b <Nome do branch> | Criar um branch
+git branch | Listar branch
+git checkout <Nome do branch> | Ir para outro branch
+git -D <Nome do branch> | Deletar um branch
