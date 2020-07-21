@@ -1,2 +1,12 @@
 Testando curso de git 2020
 Hello world
+
+Comandos:
+
+git config user.name "nome"
+git config user.email "email"
+ls = Listar
+git status
+git add
+git commit
+-m = Passar uma mensagem
