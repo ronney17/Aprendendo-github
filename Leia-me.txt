@@ -33,3 +33,10 @@ git checkout <Nome do branch> | Ir para outro branch
 git -D <Nome do branch> | Deletar um branch
 git merge <Nome do branch>
 git rebase <Nome do branch>
+git stash
+git stash apply
+git stasg clear
+
+Atalhos:
+
+git config --global alias.<atalho> comando ex: status
