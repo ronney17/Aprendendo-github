@@ -35,7 +35,9 @@ git merge <Nome do branch>
 git rebase <Nome do branch>
 git stash
 git stash apply
-git stasg clear
+git stash clear
+git revert <hash>
+git push origin :<branch a ser deletado>
 
 Atalhos:
 
