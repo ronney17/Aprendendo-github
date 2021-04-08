@@ -5,6 +5,7 @@ Comandos:
 
 git config user.name "nome"
 git config user.email "email"
+git config --list | Mostra todas as configurações
 ls = Listar
 git status
 git add
